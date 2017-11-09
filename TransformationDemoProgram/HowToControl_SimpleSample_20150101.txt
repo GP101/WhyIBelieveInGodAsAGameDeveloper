@@ -1,0 +1,10 @@
+* How to control SimpleSample program.
+
+1 : 1st Projection
+2 : 2nd Projectoin
+3 : 3rd Projection
+T : Triangle Mode
+R : Rectangle Mode
+C : Cube Mode
+0 : Hide Mode
+End of Document

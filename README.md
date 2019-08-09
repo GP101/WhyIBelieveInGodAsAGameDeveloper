@@ -1,4 +1,4 @@
-# 게임 개발자가 하나님을 믿는 이유(Why I Believe In God As A Game Developer)
+# 게임 개발자가 하나님을 믿는 이유(Why do I Believe In God As A Game Developer)
 
 아래 링크에서 영상을 시청할 수 있습니다.<br>
 https://www.youtube.com/playlist?list=PLrrTotxaO6kgrH5G9ZrFbZKi9WETst50o
